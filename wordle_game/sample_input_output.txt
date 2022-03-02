@@ -1,0 +1,50 @@
+Your file was imported!
+2315   words imported.
+Ok. I am thinking of a word with five letters.
+What word would you like to guess?
+raise
+raise
+__&__
+-----
+-----
+-----
+-----
+-----
+What word would you like to guess?
+plant
+raise
+__&__
+plant
+_&_&!
+-----
+-----
+-----
+-----
+What word would you like to guess?
+until
+raise
+__&__
+plant
+_&_&!
+until
+!!&!&
+-----
+-----
+-----
+What word would you like to guess?
+unlit
+raise
+__&__
+plant
+_&_&!
+until
+!!&!&
+unlit
+!!!!!
+-----
+-----
+Congrats you won!
+The correct word was: unlit
+Another game? y/n
+n
+Thank you!
